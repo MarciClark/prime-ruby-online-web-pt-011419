@@ -1,1 +1,1 @@
-# Add  code here!
+def prime("1","2","3","4","5")
