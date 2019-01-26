@@ -1,17 +1,3 @@
-def prime?(num)
-  if num <= 2
-    false 
-    elsif n == 2 
-    true
-    (2..num -1).all? do |x|
-      num % x != 0 
-    end
-  else
-    return false
-  end
-end
-
-
 def prime? (num)
     if num <= 1
         false
